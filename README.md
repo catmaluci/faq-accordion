@@ -1,5 +1,5 @@
 # Frontend Mentor - FAQ Accordion Solution🔗
-This is my solution to the [FAQ accordion coding challenge](https://) on Frontend Mentor.
+This is my solution to the [FAQ accordion coding challenge](https://faq-accordion-ten-opal.vercel.app/) on Frontend Mentor.
 
 ## Overview ✨
 
@@ -8,11 +8,8 @@ This is my solution to the [FAQ accordion coding challenge](https://) on Fronten
 The goal was to build a fully functional and responsive FAQ accordion component. The key requirements were to:
 
 - Hide and show the answer for each question when clicked.
-
 - Implement proper keyboard navigation for accessibility.
-
 - Ensure the layout is optimized for both desktop and mobile screen sizes.
-
 - Add hover and focus states for all interactive elements.
 
 ### Preview
@@ -25,16 +22,13 @@ The goal was to build a fully functional and responsive FAQ accordion component.
 - **CSS3** - For all styling and responsive design.
 - **Flexbox** - Used for aligning the question text and the plus/minus icon.
 
-## My Process 🛠️
+## 🛠️ My Process 
 ### 1. HTML Structure 📋
 I created a semantic HTML structure with:
 
 - A main `<main>` container for the FAQ card.
-
 - A div for each FAQ item, containing the question and answer.
-
 - A `<button>` element for the question, which acts as the interactive element.
-
 - A `p` or `div` for the hidden answer.
 
 ### 2. Styling 🎨
@@ -57,7 +51,7 @@ I created a semantic HTML structure with:
 - **Basic JavaScript for UI:** I reinforced my ability to write clean, effective JavaScript to handle user interactions and toggle CSS classes.
 
 ## 🔗 Links
-- **🌐 Live Site URL**: [Add your live site URL here]
+- **🌐 Live Site URL**: [FAQ accordion coding challenge](https://faq-accordion-ten-opal.vercel.app/)
 
 ### **👥 Solved by M Olaya** 
 <a href="https://www.linkedin.com/in/molaya">LinkedIn</a> 
